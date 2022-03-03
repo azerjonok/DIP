@@ -1,1 +1,2 @@
 # DIP
+Artjoms Azerjancs
